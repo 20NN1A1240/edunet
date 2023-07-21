@@ -1,0 +1,51 @@
+<style> body
+ { 
+ background-image: url("C:\Users\pc\OneDrive\Desktop\1240\WhatsApp Image 2023-06-27 at 14.28.01.jpg");
+ background-image: url("C:\Users\pc\OneDrive\Desktop\1240\background.jpg");
+ background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  background-image: cover;
+   height: 100vh;
+ } 
+ ul { 
+    list-style-type: none;
+     margin: 0;
+      padding: 0;
+       overflow: hidden;
+     }
+li a {
+    display: block;
+    padding: 15px;
+    background-color:bisque;
+}
+
+li {
+    float: right;
+    font-size: 30px;
+    color:burlywood;
+}
+
+img {
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 75%;
+    display: block;
+}
+
+.card {
+    height: 140px;
+    width: 220px;
+    border-radius: 20px;
+    display:block;
+    padding: 5px;
+    background-color: rgb(240, 228, 228);
+    text-align: center;
+
+}
+.bg-container{
+    background-image: url("C:\Users\pc\OneDrive\Desktop\1240\background.jpg");
+    background-size: cover;
+    max-width:100px;
+}
